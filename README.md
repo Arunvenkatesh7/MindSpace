@@ -1,7 +1,8 @@
 # 🧠 VR Mental Health Therapy Platform
 
 [![Project Demo](https://img.shields.io/badge/Demo-Watch%20Video-red)](https://your-demo-video-link)
-[![Google Drive](https://img.shields.io/badge/Google%20Drive-Download%20Project-blue)](https://drive.google.com/drive/folders/your-drive-folder-link)
+[![Google Drive](https://img.shields.io/badge/Google%20Drive-Download%20Project-blue)](https://drive.google.com/file/d/1L3NFVBg6SqqoRrZfCVlknxoJZRbOJOCY/view?usp=drive_link)
+
 
 A comprehensive Virtual Reality (VR) application designed to address various mental health challenges through immersive, interactive experiences. This platform leverages psychological principles such as exposure therapy, cognitive behavioral techniques, guided relaxation, and biofeedback mechanisms across multiple therapeutic modules.
 
