@@ -2,7 +2,7 @@
 
 [![Project Demo](https://img.shields.io/badge/Demo-Watch%20Video-red)](https://drive.google.com/drive/folders/1UHlFRzxb1bon384u4LWU57O7ET0-kCfR?usp=drive_link)
 [![Google Drive MindSpace](https://img.shields.io/badge/Google%20Drive-Download%20Project-blue)](https://drive.google.com/file/d/1L3NFVBg6SqqoRrZfCVlknxoJZRbOJOCY/view?usp=drive_link)
-[![Google Drive RageRoomGame](https://img.shields.io/badge/Google%20Drive-Download%20Project-green)](https://drive.google.com/file/d/1L3NFVBg6SqqoRrZfCVlknxoJZRbOJOCY/view?usp=drive_link)
+[![Google Drive RageRoomGame](https://img.shields.io/badge/Google%20Drive-Download%20Project-green)](https://drive.google.com/file/d/1Nzwn_yHpyBl3JrNNnxY9fG4vyr4_2m4S/view?usp=drive_link)
 
 
 A comprehensive Virtual Reality (VR) application designed to address various mental health challenges through immersive, interactive experiences. This platform leverages psychological principles such as exposure therapy, cognitive behavioral techniques, guided relaxation, and biofeedback mechanisms across multiple therapeutic modules.
